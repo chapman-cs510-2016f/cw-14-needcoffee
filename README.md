@@ -1,6 +1,6 @@
 # CS510 CW 14
 
-**Author:** _\<your name\>_
+**Author:** Afnan Alqahtani and Alexis Ford
 
 **Due date:** 2016/12/6
 
@@ -10,7 +10,7 @@ Complete the following exercise in a Jupyter notebook ```GHCND.ipynb```. Using t
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+This Class work was trully fun! First time we finish the class work on time :) The plot looks amazing. Thank you.
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Alexis and Afnan 
